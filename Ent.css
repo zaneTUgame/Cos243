@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    border: solid black 10px;
+    padding: 50px;
+    background-color:bisque;
+    font-size: 100px;
+    
+}
+
+table{
+    border: solid black 10px;
+    padding: 50px;
+    background-color:bisque;
+    font-size: 25px;
+    text-align: center;
+    column-gap: 200px;
+    
+    
+}
+img{
+    align-items: center;
+}
+td{
+    column-width: 250px;
+    
+}

@@ -1,12 +1,12 @@
 10 total websites
 Index connects to all(Make nav bar and copy that code to all)
-Entrees
-Side dishes
+Entrees - Zane
+Side dishes - Nathan
 Desserts - Elisha
 Locations
 Breakfast menu
 Lunch specials
 Dinner Menu
-Chef specials
+Birthday Party Setup- Zane
 Drinks - Elisha
 About Us

@@ -12,20 +12,22 @@
     <h1>Birthday Party</h1>
     <section id="Bday">
         <label for="Name" >Name of the birthday person</label>
-        <input type="text" name= "Name" id="Name" required>
+        <input type="text" name= "Name" id="Name" required><span style="color: red;">*</span>
         <br><br>
         <lable for="age">Age of birtday person</lable>
-        <input type="number" name= "age" id="Name" min="0" max="120" required>
+        <input type="number" name= "age" id="Name" min="1" max="120" required><span style="color: red;">*</span>
         <br><br>
         <lable for="data">Date of Party</lable>
-        <input type="date" name= "Name" id="Name" required>
+        <input type="date" name= "date" id="date" required><span style="color: red;">*</span>
         <br><br>
+        <lable for="time">Time</lable>
+        <input type="time" name = "time" id="time" required><span style="color: red;">*</span>
         <p>There will be a chefs special before Cake</p>
         <label for="Allergies" >Allergies</label>
-        <input type="text" name= "Allergies" id="Allergies" required>
+        <input type="text" name= "Allergies" id="Allergies" >
         <br><br>
         <label for="Cake" >Cake you want (put the number)</label>
-        <input type="number" name= "Cake" id="cake" min="0" max="5" required>
+        <input type="number" name= "Cake" id="cake" min="1" max="5" required><span style="color: red;">*</span>
         <br><br>
         <table>
             <tr>
@@ -62,6 +64,7 @@
             </tr>
         </table>
         <br><br>
+        <p id="warn" style="font-size: 20px; color: red; display: none;"> incorect value</p>
         <input type="button" value="submit" id="sub" style="font-size: 20px;" onclick="Sub()">
     </section>
 </body>

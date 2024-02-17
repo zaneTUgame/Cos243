@@ -3,7 +3,7 @@ Index connects to all(Make nav bar and copy that code to all)
 Entrees - Zane
 Side dishes - Nathan
 Desserts - Elisha
-Locations
+Entrees Part 2 - Nathan
 Breakfast menu - Zane
 Lunch specials - Nathan
 Dinner Menu

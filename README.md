@@ -10,3 +10,7 @@ Dinner Menu
 Birthday Party Setup- Zane
 Drinks - Elisha
 About Us
+
+
+Past this on every page in the head tag:
+<object data="nav.html" width="100%"></object>

@@ -1,0 +1,29 @@
+h1{
+    border: solid black 10px;
+    background-color: rgb(236, 124, 79);
+    text-align: center;
+    padding: 50px;
+    font-size: 100px;
+    
+}
+#Date{
+    font-size: 40px;
+    color: rgb(76, 55, 167)
+}
+tr{
+    border: solid black 10px;
+    background-color:rgb(236, 124, 79);
+    text-align: center;
+    padding: 50px;
+    font-size: 25px;
+    column-gap: 200px;
+    
+    
+}
+img{
+    align-items: center;
+}
+td{
+    column-width: 250px;
+    
+}

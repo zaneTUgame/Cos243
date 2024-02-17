@@ -1,19 +1,15 @@
 h1{
     border: solid black 10px;
-    background-color: rgb(236, 124, 79);
+    background-color: bisque;
     text-align: center;
     padding: 50px;
     font-size: 100px;
     
 }
-#Date{
-    font-size: 32px;
-    color: rgb(29, 113, 190)
-}
 
 table{
     border: solid black 10px;
-    background-color:rgb(236, 124, 79);    
+    background-color:bisque;    
     text-align: center;
     padding: 50px;
     font-size: 25px;

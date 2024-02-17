@@ -5,7 +5,7 @@ Side dishes - Nathan
 Desserts - Elisha
 Locations
 Breakfast menu - Zane
-Lunch specials
+Lunch specials - Nathan
 Dinner Menu
 Birthday Party Setup- Zane
 Drinks - Elisha

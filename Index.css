@@ -1,0 +1,18 @@
+section{
+    border: solid black 10px;
+    background-color: purple;
+    text-align: center;
+    padding: 50px;
+    color: white;
+    
+    
+}
+h1{
+    font-size: 65px;
+    text-decoration: underline;
+    font-style: bold;
+
+}
+h2{
+    font-size: 40px;
+}
